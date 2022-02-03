@@ -5,6 +5,8 @@ R tempalte
 
 This is our work
 
+Today’s date is february 3, 2022
+
 ## Including Code
 
 You can include R code in the document as follows:
